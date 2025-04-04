@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="left">Hi 👋! My name is Saurabh Kumar Yadav and I'm a Computer Science and Engineering Student, from Bakhtiyarpur College of Engineering.</h2>
+<h2 align="left">Hi 👋! My name is Saurabh Kumar Yadav and I'm a CSE Student.</h2>
 
 ###  
 
